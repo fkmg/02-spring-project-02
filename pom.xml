@@ -17,6 +17,7 @@
 
     <modules>
         <module>01-spring-zookeeper-01</module>
+        <module>02-spring-rabbitmq-01</module>
     </modules>
 
     <build>
